@@ -24,7 +24,7 @@ function App() {
           </h1>
 
           <form
-            action="https://getform.io/f/pbgxlvga"
+            action="https://getform.io/f/lbkmnejb"
             method="POST"
             enctype="multipart/form-data"
           >
