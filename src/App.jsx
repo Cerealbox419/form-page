@@ -33,7 +33,7 @@ function App() {
                 htmlFor="name"
                 className="block text-sm font-medium text-white"
               >
-                Name
+                Full  Name
               </label>
               <input
                 type="text"
